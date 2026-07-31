@@ -59,6 +59,9 @@ Example columns include:
 - Summary statistics
 - Missing value check
 - Duplicate value check
+<img width="1441" height="541" alt="image" src="https://github.com/user-attachments/assets/57d422bf-3359-43f8-b632-84c2c45e7559" />
+<img width="1914" height="402" alt="image" src="https://github.com/user-attachments/assets/a7c6aaae-7bbf-425f-bed9-f71c4aa86d5a" />
+
 
 ### 2. Measures of Central Tendency
 
