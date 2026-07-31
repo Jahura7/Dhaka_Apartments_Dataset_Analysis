@@ -34,6 +34,7 @@ Example columns include:
 - `bedrooms`
 - `age_years`
 - `location`
+<img width="764" height="477" alt="image" src="https://github.com/user-attachments/assets/27fd9238-0d39-4286-820c-1a8eeffc2783" />
 
 ---
 
