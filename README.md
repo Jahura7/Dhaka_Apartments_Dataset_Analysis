@@ -61,7 +61,8 @@ Example columns include:
 - Duplicate value check
 <img width="1441" height="541" alt="image" src="https://github.com/user-attachments/assets/57d422bf-3359-43f8-b632-84c2c45e7559" />
 <img width="1914" height="402" alt="image" src="https://github.com/user-attachments/assets/a7c6aaae-7bbf-425f-bed9-f71c4aa86d5a" />
-
+<img width="1920" height="446" alt="image" src="https://github.com/user-attachments/assets/995938ad-df43-46a5-9d28-ef54cc3806a6" />
+<img width="1920" height="696" alt="image" src="https://github.com/user-attachments/assets/c287a260-425b-47b0-9ba1-e40832999652" />
 
 ### 2. Measures of Central Tendency
 
