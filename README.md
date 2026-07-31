@@ -70,17 +70,20 @@ Example columns include:
 - Mean Apartment Size
 - Median Rent
 - Mode of Apartment Location
+<img width="1920" height="870" alt="image" src="https://github.com/user-attachments/assets/3f24f9cf-3911-448b-8b72-36f92acefac8" />
 
 ### 3. Frequency Analysis
 
 - Number of apartments in each location
 - Percentage distribution of locations
+<img width="1920" height="770" alt="image" src="https://github.com/user-attachments/assets/22e79290-f334-403e-9b4c-9bdbc9cd149b" />
 
 ### 4. Measures of Dispersion
 
 - Range
 - Variance
 - Standard Deviation
+<img width="1920" height="814" alt="image" src="https://github.com/user-attachments/assets/927b0dd7-a8fd-4dc1-a1cd-017f68e3910f" />
 
 ### 5. Correlation Analysis
 
@@ -89,6 +92,7 @@ Correlation between:
 - Apartment Size vs Rent
 - Bedrooms vs Rent
 - Apartment Age vs Rent
+<img width="1920" height="654" alt="image" src="https://github.com/user-attachments/assets/dd4b6fcf-8bda-477b-a83e-576ace93f31b" />
 
 ### 6. Correlation Heatmap
 
@@ -98,16 +102,19 @@ A heatmap is created to visualize relationships between:
 - Bedrooms
 - Age of Apartment
 - Rent
+<img width="1920" height="870" alt="image" src="https://github.com/user-attachments/assets/4e1277ca-02df-4413-b0df-46f8e2c6080d" />
 
 ---
 
 ## 📈 Key Findings
-
+The Correlation heatmap showes that-
 - Apartment rent is **right-skewed**, meaning a few high-priced apartments increase the average rent.
-- Apartment **size has a strong positive correlation with rent**.
-- Larger apartments generally have higher rental prices.
-- Correlation analysis helps identify which apartment features most influence rent.
+- Rent is strongly influenced by apartment size(0.91) and moderately influenced by the number of bedrooms(0.67)
+- Apartment age has weak negative correlation with rent(-0.31), indicating that older apartments tend to have slightly lower rents.
+Overall, larger apartments with more bedrooms are generally more expensive to rent.
 
+But Correlation is not causation. Bathrooms and rent rise together because bigger flats have both -> size is the real driver, not the bathroom.
+ 
 ---
 
 ## 📷 Visualization
@@ -127,7 +134,7 @@ Example:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/Dhaka-Apartments-Analysis.git
+git clone https://github.com/jahura7/Dhaka-Apartments-Analysis.git
 ```
 
 2. Navigate to the project folder
